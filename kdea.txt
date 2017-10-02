@@ -2,4 +2,4 @@ ME
 kdea
 born in: 
 something new
-fav color: red
+fav color: blue 
