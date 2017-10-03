@@ -3,3 +3,4 @@ kdea
 born in: 
 something new
 fav color: RED 
+noise: 
